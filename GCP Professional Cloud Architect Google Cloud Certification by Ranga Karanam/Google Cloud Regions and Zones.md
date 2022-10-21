@@ -1,0 +1,10 @@
+* **Regions and Zones**
+There are multiple regions and zones for providing low latency and high speed services.
+
+Region: Specific Geographic locations to host your resources.
+
+Advantage: High availability, Low latency, Global footprint, Adhere to government regulations
+
+Zones: The technique to achieve high availability in the same region. Zones in a single region are connected through low-latency links.
+
+Advantage: Increased availability and fault tolerance within the same region. Each zone has one or more discrete clusters, where Cluster’s are the distinct physical infrastructure that is housed in a data-center.
