@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/fb51e98c-3adf-4260-a9c6-172a980deda7/project/8001c8c5-d2a9-467c-92a2-fcd993f35f77.svg)](https://wakatime.com/badge/user/fb51e98c-3adf-4260-a9c6-172a980deda7/project/8001c8c5-d2a9-467c-92a2-fcd993f35f77)
+[![wakatime](https://wakatime.com/badge/github/cloud-devops-enthusiast/Google-Cloud-Platform_Professional-Cloud-Architect_Certification-Exam-Preparation.svg)](https://wakatime.com/badge/github/cloud-devops-enthusiast/Google-Cloud-Platform_Professional-Cloud-Architect_Certification-Exam-Preparation)
 
 ![VS](https://img.shields.io/github/last-commit/cloud-devops-enthusiast/Google-Cloud-Platform_Professional-Cloud-Architect_Certification-Exam-Preparation)
 
